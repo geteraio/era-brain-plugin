@@ -1,0 +1,5 @@
+# Era Brain for Codex — add to ~/.codex/config.toml, then run: codex mcp login era-brain
+# (or let Codex write it for you: codex mcp add era-brain --url "https://app.getera.io/api/mcp?tools=brain")
+
+[mcp_servers.era-brain]
+url = "https://app.getera.io/api/mcp?tools=brain"

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "era-brain": {
+      "type": "http",
+      "url": "${user_config.era_url}/api/mcp?tools=brain"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "era-brain",
+  "version": "1.0.0",
+  "description": "Era Brain — long-term memory for Claude Code. Recalls what matters before answering, saves what it learns, and never sees more than you can in Era.",
+  "author": { "name": "Era", "url": "https://getera.io" },
+  "homepage": "https://docs.getera.io/en/brain",
+  "license": "MIT",
+  "keywords": ["memory", "era", "brain", "mcp", "knowledge-graph"],
+  "userConfig": {
+    "era_url": {
+      "type": "string",
+      "title": "Era address",
+      "description": "Where your Era is. Leave as is unless your company runs its own Era.",
+      "default": "https://app.getera.io"
+    }
+  }
+}
